@@ -1,2 +1,2 @@
 # LearningJava2017
-This repository will help Jordan and i learn how to use git while we teach ourselves java this summer.
+This repository will help me keep track of the files I'm using to learn java.
